@@ -1,4 +1,4 @@
-CanastaFamiliar
+ShoppinGGroup
 ===============
 
 Sistema de compras online
